@@ -1,1 +1,4 @@
 # mgrep
+
+## Steps
+- Get inputs
